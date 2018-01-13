@@ -16,9 +16,11 @@ build/
 develop-eggs/
 dist/
 downloads/
-eggs/
 .eggs/
 lib/
+eggs/
+bin/
+include/
 lib64/
 parts/
 sdist/
